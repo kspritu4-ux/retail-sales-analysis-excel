@@ -2,7 +2,8 @@
 ## Project Overview
 
 This project analyzes online retail transaction data using Microsoft Excel to uncover sales trends, customer behavior, pricing strategy, cancellations, and geographical performance.
-📑 Table of Contents (Clickable)
+
+## 📑 Table of Contents
 1. [Business Questions](#business-questions)
 2. [Dataset Overview](#dataset-overview)
 3. [Key Takeaways](#key-takeaways)
