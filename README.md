@@ -160,4 +160,4 @@ Business Insight Generation
 
 ## Project Outcome
 
-This project demonstrates strong Excel analytics and dashboarding capabilities, showcasing the ability to transform raw retail data into business-ready insights suitable for Data Analyst, Business Analyst, and BI roles.
+This project demonstrates strong Excel analytics and dashboarding capabilities, showcasing the ability to transform raw retail data into business-ready insights suitable.
